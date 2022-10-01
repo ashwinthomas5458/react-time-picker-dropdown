@@ -1,8 +1,8 @@
 # React Time Picker Dropdown
 A time picker component for your react app. 
 
-## Demo
-You can also checkout the [demo](https://timepicker.ashwinthomas.in/).
+<!-- ## Demo
+You can also checkout the [demo](https://timepicker.ashwinthomas.in/). -->
 
 ## Getting Started
 
