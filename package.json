@@ -1,6 +1,6 @@
 {
   "name": "@ashwinthomas/react-time-picker-dropdown",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A time picker for react webapp",
   "main": "dist/index.js",
   "module": "dist/index.es.js",
